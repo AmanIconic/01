@@ -1730,6 +1730,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Aman Yadav</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/AmanIconic">
+                    <img src="https://avatars.githubusercontent.com/u/174493916?s=400&u=b616c90921e50d86f1afb58d0b4eabf190a0a024&v=4" width="100px;" alt="Aman Yadav"/>
+                    <br />
+                    <sub><b>Aman Yadav</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
